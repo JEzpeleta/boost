@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportImportMemento.1>
+<VarMeta IMemento.internal.id="pid_Ibat"/>
+<VarMeta IMemento.internal.id="pid_Ii"/>
+<VarMeta IMemento.internal.id="pid_Vi"/>
+<VarMeta IMemento.internal.id="pid_Vo"/>
+<VarMeta IMemento.internal.id="vF"/>
+<VarMeta IMemento.internal.id="ViRef"/>
+<VarMeta IMemento.internal.id="VoRef"/>
+<VarMeta IMemento.internal.id="IbatRef"/>
+<VarMeta IMemento.internal.id="IiRef"/>
+<VarMeta IMemento.internal.id="ViReg"/>
+<VarMeta IMemento.internal.id="VoReg"/>
+<VarMeta IMemento.internal.id="IiReg"/>
+<VarMeta IMemento.internal.id="IbatReg"/>
+<VarMeta IMemento.internal.id="useMPPT"/>
+<VarMeta IMemento.internal.id="salidaON"/>
+<VarMeta IMemento.internal.id="pid_Ii.term.Out"/>
+<VarMeta IMemento.internal.id="waveformSnapshot"/>
+<VarMeta IMemento.internal.id="waveform"/>
+<VarMeta IMemento.internal.id="Modo"/>
+<VarMeta IMemento.internal.id="finalIiRef"/>
+<VarMeta IMemento.internal.id="vF"/>
+</ExportImportMemento.1>

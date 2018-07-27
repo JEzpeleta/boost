@@ -1,0 +1,33 @@
+#ifndef INC_PARAMETROS_H_
+#define INC_PARAMETROS_H_
+
+#define KP_PID_VO (0.12)
+#define KI_PID_VO (0.006)
+#define KC_PID_VO (0.0012)
+#define UMAX_PID_VO (0.45)
+#define UMIN_PID_VO (0.0)
+
+#define KP_PID_VI (0.12)
+#define KI_PID_VI (0.006)
+#define KC_PID_VI (0.0012)
+#define UMAX_PID_VI (0.45)
+#define UMIN_PID_VI (0.0)
+
+#define KP_PID_IBAT (0.12)
+#define KI_PID_IBAT (0.006)
+#define KC_PID_IBAT (0.0012)
+#define UMAX_PID_IBAT (0.45)
+#define UMIN_PID_IBAT (0.0)
+
+#define KP_PID_II (0.20)
+#define KI_PID_II (0.012)
+#define KC_PID_II (0.0024)
+#define UMAX_PID_II (0.325)
+#define UMIN_PID_II (0.0)
+
+#define PID_VO_PARAMETERS {_IQ(KP_PID_VO),_IQ(KI_PID_VO),_IQ(KC_PID_VO),_IQ(UMAX_PID_VO),_IQ(UMIN_PID_VO)}
+#define PID_VI_PARAMETERS {_IQ(KP_PID_VI),_IQ(KI_PID_VI),_IQ(KC_PID_VI),_IQ(UMAX_PID_VI),_IQ(UMIN_PID_VI)}
+#define PID_IBAT_PARAMETERS {_IQ(KP_PID_IBAT),_IQ(KI_PID_IBAT),_IQ(KC_PID_IBAT),_IQ(UMAX_PID_IBAT),_IQ(UMIN_PID_IBAT)}
+#define PID_II_PARAMETERS {_IQ(KP_PID_II),_IQ(KI_PID_II),_IQ(KC_PID_II),_IQ(UMAX_PID_II),_IQ(UMIN_PID_II)}
+
+#endif /*INC_PARAMETROS_H_*/
